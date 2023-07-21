@@ -1,1 +1,1 @@
-# manifesto
+# The Geoid Manifesto
